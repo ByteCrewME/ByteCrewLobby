@@ -1,0 +1,2 @@
+# ByteCrewLobby
+The lobby plugin
